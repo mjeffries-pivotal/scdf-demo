@@ -18,7 +18,7 @@ resources:
 - name: scdf-demo
   type: git
   source:
-    uri: https://github.com/cpage-pivotal/scdf-demo
+    uri: https://github.com/mjeffries-pivotal/scdf-demo
     branch: master
 
 - name: scdf-server
